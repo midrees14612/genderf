@@ -1,0 +1,32 @@
+name: genderf
+description: "A GenZ style Gender & Vibe Checker app."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.8 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Camera aur AI Packages
+  camera: ^0.10.5
+  google_mlkit_face_detection: ^0.7.0
+
+  # UI aur Design Packages
+  lottie: ^2.6.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Ise stable version par kar diya hai
+
+flutter:
+  uses-material-design: true
+
+  # Agar aapne animations use karni hain to assets yahan add honge
+  # assets:
+  #   - assets/animations/

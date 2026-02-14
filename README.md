@@ -1,17 +1,37 @@
 # genderf
 
 A new Flutter project.
+🗿 GenderF: The GenZ Vibe & Aura Checker
+GenderF aik funny aur futuristic Flutter application hai jo AI (Google ML Kit) use karke aapke face ko scan karti hai aur aapka "True Gender Vibe" batati hai GenZ slang mein. Ye app sirf gender nahi batati, balkay aapka Aura aur Sigma/Slay level bhi calculate karti hai!
 
-## Getting Started
+🚀 Key Features
+Real-time Face Detection: Google ML Kit Face Detection API use karke asali facial landmarks (beard area, eyes, lips) ko analyze karti hai.
 
-This project is a starting point for a Flutter application.
+Sigma vs Slay Logic: Agar aap serious hain aur heavy beard vibe hai toh aap aik Sigma Male 🗿 hain. Agar aap has rahe hain aur glowy vibes hain toh aap Slay Queen 💅 hain.
 
-A few resources to get you started if this is your first Flutter project:
+The Roast Mode: Agar features "Sus" lagein toh app funny roast result deti hai (Kussra Mode Activated 😂).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Neon GenZ UI: Dark theme, neon cyan aur purple accent colors ke saath aik cool interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# genderf" 
+Scanning Animation: Futuristic neon line animation jo real AI scanning ka feel deti hai.
+
+🛠️ Tech Stack
+Frontend: Flutter & Dart
+
+AI Engine: Google ML Kit (Face Detection)
+
+Camera: Flutter Camera Plugin
+
+UI/UX: Custom Neon Dark Theme
+
+📸 How it Works
+App open karein aur front camera se apna face frame mein layein.
+
+"CHECK MY VIBE 🚀" button par tap karein.
+
+AI aapke landmarks (smile probability, bounding box, aur landmarks) scan karega.
+
+3 seconds ke "Aura Analysis" ke baad aapka result screen par show hoga!
+
+👨‍💻 Developed By
+Muhammad Idrees BSIT Student & Tech Enthusiast
